@@ -72,11 +72,11 @@ where:
 - `frame_time = 1 / fps` is the time between two frames.
 - `3.6` is the conversion factor from m/s to km/h.
 
-## VIDEO OUTPUT
-
+## INPUT VIDEO 
+### SOURCE-- Supervision data assets
 https://github.com/user-attachments/assets/99980ffc-8b97-4c20-9b74-6fad9e1fb10f
 
-
+## OUTPUT VIDEO (Annotated)
 https://github.com/user-attachments/assets/8f2c46b0-7a69-4e75-9d3a-cba976322993
 
 ## Challenges Faced
